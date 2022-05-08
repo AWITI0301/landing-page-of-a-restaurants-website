@@ -457,6 +457,57 @@ h5{
     line-height: 1.5;
     color: #747171;
 }
+.features {
+    width: 665px;
+    height: 35vh;
+    border-radius: 15px;
+    margin-left: -85vh;
+    margin-top: 30px;
+    margin-bottom: 120px;
+    background: #ffffff;
+    box-shadow: 10px 12px 29px #bebebe6c,
+        -12px -12px 24px #ffffff;
+}
+
+.featureslist {
+    color: #747171;
+    display: flex;
+    line-height: 2;
+    border-radius: 10px;
+    margin-top: -30px;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.featurestext {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    font-weight: bold;
+    border-bottom: 0.1px solid rgba(128, 128, 128, 0.384);
+
+}
+
+.featureslisting {
+    list-style-type: none;
+    margin-left: 30px;
+    padding-left: 20px;
+
+}
+
+.check {
+    width: 20px;
+    margin-bottom: -9px;
+    margin-left: -20px;
+}
+
+.linegradient {
+    width: 160px;
+    height: 5px;
+    border-radius: 10px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(30deg, rgb(221, 189, 7) 10%, rgb(29, 21, 1) 100%);
+}
 
 
 
