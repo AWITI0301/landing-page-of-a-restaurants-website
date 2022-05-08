@@ -183,3 +183,12 @@ background: linear-gradient(20deg, rgba(0,0,0,1) 35%, rgba(55,41,4,1) 100%);
     width: 19px;
     padding-left: 20px;
 }
+
+h6 {
+    padding-left: 90px;
+}
+
+h4 {
+    font-size: x-large;
+    padding-left: 150px;
+}
