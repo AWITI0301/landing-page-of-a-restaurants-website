@@ -1,7 +1,7 @@
 .body {
     /* scroll-behavior: smooth;
     margin: -1px 20px; */
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins',  Poppins,  Actor, Adamina;
     background-color: #ffffff;
     margin:auto;
 }
@@ -92,7 +92,7 @@ a {
     width: 190px;
 }
 
-.iconplace {
+.iconarea {
     width: 95px;
     height: 34px;
     display: inline-block;
@@ -135,13 +135,13 @@ a {
     background-color: black;
 }
 
-.cardimages {
+.flexchild {
     margin-left: 300px;
     margin-bottom: 22px;
     border-radius: 15px;
 
 }
-.cards {
+.child {
 
     width: 300px;
     height: 320px;
@@ -175,7 +175,7 @@ background: linear-gradient(20deg, rgba(0,0,0,1) 35%, rgba(55,41,4,1) 100%);
     width: 20px;
    padding-left: 15px;
 }
-.iconpacket{
+.iconholder{
     padding-left: 150px;
     padding-top: 45px;
 }
@@ -199,7 +199,7 @@ h4 {
     padding-top: 50px;
 }
 
-.columnheading {
+.columnhead {
     display: flex;
     flex-direction: column;
     margin-left: 400px;
@@ -211,7 +211,7 @@ h5{
     margin-left: 83px;
     font-size: larger;
 }
-.columnheading1 {
+.columnhead1 {
     display: flex;
     flex-direction: column;
     padding-left: -600px;
@@ -221,7 +221,7 @@ h5{
     font-size: small;
 }
 
-.columnheading3 {
+.columnhead3 {
     display: flex;
     flex-direction: column;
     padding-left: -600px;
