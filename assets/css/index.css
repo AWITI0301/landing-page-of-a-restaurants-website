@@ -192,3 +192,16 @@ h4 {
     font-size: x-large;
     padding-left: 150px;
 }
+
+.move{
+    padding-top: 50px;
+}
+
+.columnheading {
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+    margin-top: -20px;
+    line-height: 1.6;
+    font-size: small;
+}
