@@ -12,9 +12,16 @@ body {
 button {
     cursor: pointer;
 }
+
 .navbar {
     margin-left: 550px;
     padding-top: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding-left: 85px;
 }
 
 .section1 {
@@ -25,23 +32,27 @@ button {
     margin-left: 85px;
 
 }
+
 .buttonv1 {
     margin-left: 30px;
 }
+
 .btn1 {
     background-color: yellow;
 }
+
 .btn2 {
     background-color: black;
     color: white;
 }
+
 .yellowtext {
     color: yellow;
     font-size: xx-large;
     padding-top: 90px;
     margin-left: 20px;
     padding-left: 35px;
-
+    font-stretch: expanded
 }
 
 .whitetext {
@@ -76,12 +87,6 @@ button {
     border-radius: 0 11px 0 0;
 }
 
-.lefting{
-    width: 310px;
-    padding-left: 85px;
-    margin-top: -165px;
-}
-
 .topmoversimg {
     width: 190px;
 }
@@ -96,6 +101,7 @@ button {
     border-bottom-style: none;
     border: 0.5px solid rgba(153, 151, 151, 0.267);
 }
+
 .mvs {
     margin-top: 11px;
     margin-bottom: 10px;
@@ -120,4 +126,17 @@ button {
     margin-top: -195px;
     padding-left: 80px;
     padding-bottom: 30px;
+}
+
+.buttonv2 {
+    margin-left: 0px;
+    color: white;
+    background-color: black;
+}
+
+.cardimages {
+    margin-left: 300px;
+    margin-bottom: 22px;
+    border-radius: 15px;
+
 }
