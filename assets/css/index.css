@@ -566,5 +566,25 @@ h5{
     padding-left: -1px;
 }
 
+.similarcardsodd {
+    width: 30.1vh;
+    height: 45vh;
+    margin-left: 40px;
+    background: #ffffff;
+    box-shadow: 10px 12px 29px #bebebe6c,
+        -12px -12px 24px #ffffff;
+}
+
+/* Footer CSS */
+.moversfooter {
+
+    height: 390px;
+    color: white;
+    margin-left: -104vh;
+    margin-top: 25px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(20deg, rgba(0, 0, 0, 1) 35%, rgba(55, 41, 4, 1) 100%);
+}
+
 
 
