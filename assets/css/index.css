@@ -534,5 +534,37 @@ h5{
     padding-left: 20px;
 }
 
+.similaricons {
+    display: flex;
+}
+
+.iconbordersforsimilar {
+    width: 132px;
+    height: 50px;
+    border: 1px solid rgba(150, 150, 150, 0.295);
+    border-bottom-style: none;
+    margin-top: 49px;
+}
+
+.similarlistings {
+    display: flex;
+    margin-left: -90vh;
+    margin-top: 19px;
+    overflow: hidden;
+}
+
+.similarimgs {
+    width: 40vh;
+    overflow: hidden;
+
+}
+
+.similarimgsodd {
+    width: 30vh;
+    height: 32vh;
+    overflow: hidden;
+    padding-left: -1px;
+}
+
 
 
