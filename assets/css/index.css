@@ -249,3 +249,12 @@ h5{
 .moverslinks {
     margin-top: 15px;
 }
+
+.moverslinks:hover {
+    color: #FFAC12;
+
+}
+
+.navbar3 {
+    color: white;
+}
