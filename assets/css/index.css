@@ -586,5 +586,27 @@ h5{
     background: linear-gradient(20deg, rgba(0, 0, 0, 1) 35%, rgba(55, 41, 4, 1) 100%);
 }
 
+.moversbottomborder {
+    border-bottom: 0.1px solid grey;
+    width: 140vh;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.icons {
+    width: 20px;
+    padding-top: 20px;
+}
+
+h6 {
+    padding-left: 90px;
+}
+
+h4 {
+    font-size: x-large;
+    padding-left: 150px;
+}
+
+
 
 
