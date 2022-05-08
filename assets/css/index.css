@@ -368,3 +368,32 @@ h5{
     background-color: black;
     border-radius: 0 12px 0 0;
 }
+
+.housepicsoverall {
+    display: flex;
+    margin-left: -720px;
+    margin-top: 15px;
+
+}
+
+.housepics {
+    width: 75px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.housepics:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.details {
+    width: 81vh;
+    height: 15vh;
+    margin-left: -85vh;
+    margin-top: 40px;
+    border-radius: 25px;
+    background: #ffffff;
+    box-shadow: 10px 12px 29px #bebebe6c,
+        -12px -12px 24px #ffffff;
+}
