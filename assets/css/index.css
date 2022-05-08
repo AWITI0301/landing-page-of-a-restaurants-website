@@ -1,8 +1,9 @@
-body {
+.body {
     /* scroll-behavior: smooth;
     margin: -1px 20px; */
     font-family: 'Poppins', sans-serif;
     background-color: #ffffff;
+    margin:auto;
 }
 
 /* * {
@@ -632,29 +633,36 @@ h4 {
     display: flex;
     flex-direction: column;
     margin-left: 400px;
-    margin-top: -20px;
+    margin-top: -30px;
+    line-height: 1.6;
+    font-size: small;
 }
 
 .moverscolumnheading1 {
     display: flex;
     flex-direction: column;
     padding-left: -600px;
-    margin-left: 700px;
-    margin-top: -132px;
+    margin-left: 400px;
+    margin-top: -32px;
     display: flex;
     flex-direction: column;
     padding-left: -600px;
     margin-left: 700px;
     margin-top: -132px;
+    line-height: 1.45;
+    font-size: small;
 }
 
 .moverscolumnheading3 {
     display: flex;
     flex-direction: column;
     padding-left: -600px;
-    margin-left: 1100px;
-    margin-top: -132px;
+    margin-left: 1000px;
+    margin-top: -135px;
+    font-size: small;
+    line-height: 1.5;
 }
+
 
 
 
