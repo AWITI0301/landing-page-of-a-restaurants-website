@@ -270,3 +270,15 @@ h5{
     padding-left: 140px;
     margin-top: -14px;
 }
+
+.price {
+    margin-left: 1279px;
+    margin-top: -35px;
+    font-size: xx-large;
+}
+
+.pricetag {
+    margin-left: 1345px;
+    margin-top: -25px;
+    font-size: small;
+}
