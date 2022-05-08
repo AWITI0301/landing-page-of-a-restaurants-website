@@ -48,5 +48,36 @@ button{
     padding-top: 89px;
     margin-left: 21px;
     padding-left: 36px;
+    display: flex;
+    margin-left: 80px;
 
 }
+.whitetext{
+    color: white;
+    padding-left: 36px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-left: 80px;
+    font-size: large;
+}
+.moving2{
+    width: 310px;
+    padding-left: 85px;
+    padding-bottom: -165px;
+
+}
+..righttext{
+    padding-left: 500px;
+    padding-top: 39px;
+    padding-bottom: -30px;
+
+}
+
+.button3{
+    color: yellow;
+    width: 120px;
+    height: 38px;
+    margin-left: 500px;
+    border-radius: 0 11px 0 0;
+}
+
