@@ -229,8 +229,23 @@ h5{
     font-size: small;
 }
 
+
+
+
+
 /* Start of Movers CSS */
 .moverssection {
     background-color: black;
     height: 145px;
+}
+
+.navbar2 {
+    display: flex;
+    flex-direction: row;
+    padding-left: 650px;
+    margin-bottom: -15px;
+}
+
+.moverslinks {
+    margin-top: 15px;
 }
