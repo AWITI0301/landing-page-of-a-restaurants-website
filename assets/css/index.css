@@ -205,3 +205,16 @@ h4 {
     line-height: 1.6;
     font-size: small;
 }
+h5{
+    margin-left: 83px;
+    font-size: larger;
+}
+.columnheading1 {
+    display: flex;
+    flex-direction: column;
+    padding-left: -600px;
+    margin-left: 700px;
+    margin-top: -160px;
+    line-height: 1.6;
+    font-size: small;
+}
