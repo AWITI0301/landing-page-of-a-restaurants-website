@@ -178,3 +178,8 @@ background: linear-gradient(20deg, rgba(0,0,0,1) 35%, rgba(55,41,4,1) 100%);
     padding-left: 150px;
     padding-top: 45px;
 }
+
+.iconimg{
+    width: 19px;
+    padding-left: 20px;
+}
