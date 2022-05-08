@@ -425,4 +425,38 @@ h5{
     padding-top: 9px;
 }
 
+.numbers {
+    width: 10px;
+    margin-top: -25px;
+    margin-left: 80px;
+}
+
+.description {
+    color: black;
+    width: 665px;
+    height: 45vh;
+    margin-top: 30px;
+    margin-left: -85vh;
+    border-radius: 15px;
+    background: #ffffff;
+    box-shadow: 10px 12px 29px #bebebe6c,
+        -12px -12px 24px #ffffff;
+}
+
+.descriptiontext {
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    border-bottom: 0.1px solid rgba(128, 128, 128, 0.384);
+
+}
+
+.descriptiontext1 {
+    padding-left: 15px;
+    line-height: 1.5;
+    color: #747171;
+}
+
+
 
