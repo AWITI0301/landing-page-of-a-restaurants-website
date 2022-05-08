@@ -32,3 +32,21 @@ button{
     height: 100vh;
     margin-left: 85px;
 }
+.button1{
+    margin-left: 30px;
+}
+.btn1{
+    background-color: yellow;
+}
+.btn2{
+    background-color: black;
+    color: white;
+}
+.yellowtext{
+    color: yellow;
+    font-size: xx-large;
+    padding-top: 89px;
+    margin-left: 21px;
+    padding-left: 36px;
+
+}
