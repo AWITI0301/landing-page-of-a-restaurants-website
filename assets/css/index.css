@@ -329,3 +329,28 @@ h5{
     margin-top: -37px;
     font-size: large;
 }
+
+.userprofile {
+    color: #FFAC12;
+    margin-left: 70px;
+    margin-top: -33px;
+    font-size: small;
+}
+
+.inputs {
+    width: 240px;
+    height: 45px;
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: 08px;
+
+}
+
+.inputsodd {
+    width: 240px;
+    height: 85px;
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: 08px;
+
+}
