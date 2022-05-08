@@ -509,5 +509,30 @@ h5{
     background: linear-gradient(30deg, rgb(221, 189, 7) 10%, rgb(29, 21, 1) 100%);
 }
 
+.similarlinegradient {
+    margin-left: -85vh;
+}
+
+.similartext {
+    margin-left: -85vh;
+}
+
+.similarcards {
+    width: 40vh;
+    height: 45vh;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    background: #ffffff;
+    box-shadow: 10px 12px 29px #bebebe6c,
+        -12px -12px 24px #ffffff;
+}
+
+.similarname {
+    margin-bottom: -32px;
+    font-size: large;
+    padding-left: 20px;
+}
+
 
 
