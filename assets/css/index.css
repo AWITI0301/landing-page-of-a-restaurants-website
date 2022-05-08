@@ -294,3 +294,12 @@ h5{
     margin-left: 859px;
     margin-top: -472px;
 }
+
+.card {
+    width: 300px;
+    height: 460px;
+    border-radius: 18px;
+    background: #ffffff;
+    box-shadow: 10px 12px 29px #bebebe,
+        -12px -12px 24px #ffffff;
+}
