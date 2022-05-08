@@ -397,3 +397,32 @@ h5{
     box-shadow: 10px 12px 29px #bebebe6c,
         -12px -12px 24px #ffffff;
 }
+.detailedinfo {
+    font-size: larger;
+    font-weight: bold;
+    height: 50px;
+    width: 100%;
+    padding-top: 29px;
+    margin-left: 25px;
+
+}
+
+.moversicons {
+    display: flex;
+}
+
+.iconborders {
+    width: 132px;
+    height: 50px;
+    border: 1px solid rgba(150, 150, 150, 0.295);
+    border-bottom-style: none;
+    margin-top: -24px;
+}
+
+.moversiconimg {
+    width: 30px;
+    padding-left: 35px;
+    padding-top: 9px;
+}
+
+
