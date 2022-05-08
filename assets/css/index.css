@@ -140,3 +140,11 @@ a {
     border-radius: 15px;
 
 }
+.cards {
+
+    width: 300px;
+    height: 320px;
+    display: inline-block;
+    margin-left: 30px;
+    border-radius: 11px;
+}
