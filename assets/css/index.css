@@ -25,6 +25,10 @@ button{
     padding-right: 5px;
     margin-right:px;
 }
-a{
-
+.navigation{
+    background-image: url(../images/moving\ 1.png);
+    background-size: cover;
+    width: 90%;
+    height: 100vh;
+    margin-left: 85px;
 }
